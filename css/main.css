@@ -713,7 +713,8 @@ header .seperator-skew svg .fill-white {
   display: flex;
   flex-wrap: wrap;
   list-style-type: none;
-  margin-top: 1rem;
+  margin-top: 0.6rem;
+  margin-bottom: 0.1rem;
 }
 
 .projects .project-row .project-right .tech-stack-list p {
