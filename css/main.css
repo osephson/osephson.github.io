@@ -713,8 +713,8 @@ header .seperator-skew svg .fill-white {
   display: flex;
   flex-wrap: wrap;
   list-style-type: none;
-  margin-top: 0.6rem;
-  margin-bottom: 0.1rem;
+  margin-top: 0.8rem;
+  margin-bottom: 0.5rem;
 }
 
 .projects .project-row .project-right .tech-stack-list p {
@@ -722,12 +722,17 @@ header .seperator-skew svg .fill-white {
 }
 
 .projects .project-row .project-right .tech-stack-list li {
+  display: flex;
   margin-right: 20px;
   font-size: 1.5rem;
 }
 
 .projects .project-row .project-right .project-links {
-  margin-top: 1rem;
+  margin-top: 0rem;
+}
+
+.projects .project-row .project-right .project-desc {
+  margin: 0.5rem 0;
 }
 
 .projects .project-row #webscraper {
