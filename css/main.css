@@ -802,10 +802,6 @@ header .seperator-skew svg .fill-white {
   border-radius: 3px;
 }
 
-.education .container .education-card > *:last-child {
-  margin-top: 40px;
-}
-
 @media (max-width: 500px) {
   .education .container .education-card {
     padding: 20px;
